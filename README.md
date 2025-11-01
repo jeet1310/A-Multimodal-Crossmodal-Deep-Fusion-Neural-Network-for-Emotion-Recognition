@@ -101,9 +101,9 @@ The model shows consistent performance across all seven basic emotions — *ange
 ## 📬 Contact  
 
 **Author:** Jeet Jain
-            Harshad More
+**  ** Harshad More
 **Email:** [jainjeet1310@gmail.com](mailto:jainjeet1310@gmail.com) 
-            [harshadmore0304@gmail.com](mailto:harshadmore0304@gmail.com) 
+            ** ** [harshadmore0304@gmail.com](mailto:harshadmore0304@gmail.com) 
             
 **Institution:** STME, NMIMS, Navi Mumbai  
 
